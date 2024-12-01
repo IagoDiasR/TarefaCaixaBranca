@@ -11,8 +11,11 @@ Nós = 14
 Arestas = 15
 
 M = E - N + 2P
+
 M = 15 - 14 + (2.1)
+
 M = 1 + 2
+
 M = 3
 
 ## Caminhos
