@@ -1,10 +1,10 @@
 # Etapa 3
 
 ## Código com Numeração
-<img src="/CAIXA_BRANCA_CODIGO_BASE.png>
+<img src="CAIXA_BRANCA_CODIGO_BASE.png>
 
 ## Grafo de Fluxo
-<img src="/GrafoDeFluxo.png>
+<img src="GrafoDeFluxo.png>
 
 ## Cálculo da Complexidade
 Nós = 14
